@@ -1,8 +1,6 @@
 # visual-legion-challenge
 Visual Legion Coding Challenge
 
-This is just a challenge by a potential employer.
-
 Replicate this page as closely as possible:
 https://www.figma.com/file/CL62UjDLhZ72UQTskAcoM1vr/Untitled?node-id=0%3A1
 
